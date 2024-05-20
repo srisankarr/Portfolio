@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/srisankarr/portfolio.git/static/css/main.c68fe198.chunk.css",
-    "main.js": "/srisankarr/portfolio.git/static/js/main.8f9489fb.chunk.js",
-    "main.js.map": "/srisankarr/portfolio.git/static/js/main.8f9489fb.chunk.js.map",
+    "main.css": "/srisankarr/portfolio.git/static/css/main.c6d5de4f.chunk.css",
+    "main.js": "/srisankarr/portfolio.git/static/js/main.17aec9b8.chunk.js",
+    "main.js.map": "/srisankarr/portfolio.git/static/js/main.17aec9b8.chunk.js.map",
     "runtime-main.js": "/srisankarr/portfolio.git/static/js/runtime-main.6fde183b.js",
     "runtime-main.js.map": "/srisankarr/portfolio.git/static/js/runtime-main.6fde183b.js.map",
-    "static/js/2.fdefe88f.chunk.js": "/srisankarr/portfolio.git/static/js/2.fdefe88f.chunk.js",
-    "static/js/2.fdefe88f.chunk.js.map": "/srisankarr/portfolio.git/static/js/2.fdefe88f.chunk.js.map",
+    "static/js/2.afe69852.chunk.js": "/srisankarr/portfolio.git/static/js/2.afe69852.chunk.js",
+    "static/js/2.afe69852.chunk.js.map": "/srisankarr/portfolio.git/static/js/2.afe69852.chunk.js.map",
     "index.html": "/srisankarr/portfolio.git/index.html",
-    "precache-manifest.b502c50242c7c45959122bf84202de11.js": "/srisankarr/portfolio.git/precache-manifest.b502c50242c7c45959122bf84202de11.js",
+    "precache-manifest.8891f7fa831cd47aed7178d90bb85a28.js": "/srisankarr/portfolio.git/precache-manifest.8891f7fa831cd47aed7178d90bb85a28.js",
     "service-worker.js": "/srisankarr/portfolio.git/service-worker.js",
-    "static/css/main.c68fe198.chunk.css.map": "/srisankarr/portfolio.git/static/css/main.c68fe198.chunk.css.map",
+    "static/css/main.c6d5de4f.chunk.css.map": "/srisankarr/portfolio.git/static/css/main.c6d5de4f.chunk.css.map",
     "static/media/index.css": "/srisankarr/portfolio.git/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/srisankarr/portfolio.git/static/media/address_image.16559172.svg",
     "static/media/animated_logo.svg": "/srisankarr/portfolio.git/static/media/animated_logo.dcd6dee2.svg",
@@ -53,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6fde183b.js",
-    "static/js/2.fdefe88f.chunk.js",
-    "static/css/main.c68fe198.chunk.css",
-    "static/js/main.8f9489fb.chunk.js"
+    "static/js/2.afe69852.chunk.js",
+    "static/css/main.c6d5de4f.chunk.css",
+    "static/js/main.17aec9b8.chunk.js"
   ]
 }
