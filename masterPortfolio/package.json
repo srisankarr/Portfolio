@@ -2,7 +2,7 @@
   "private": true,
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/srisankarr/srisankarr.github.io.git",
+  "homepage": "https://srisankarr.github.io/",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
