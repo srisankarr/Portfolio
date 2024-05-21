@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
   "Passionate and dedicated fresher with a keen interest in both web and software development. Proficient in various programming languages and eager to apply my skills to create innovative solutions. Committed to continuous learning and growth in the dynamic field of technology. Excited to contribute my enthusiasm and fresh perspective to projects as a web and software developer",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/13PXM7Ckf-w6GPOUUILvlUVa5sev6ySEr/view?usp=drivesdk",
   portfolio_repository: "https://github.com/srisankarr?tab=repositories",
   githubProfile: "https://github.com/srisankarr",
 };
