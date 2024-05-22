@@ -14,7 +14,7 @@ const engine = new Styletron();
 
 ReactDOM.render(
   <StyletronProvider value={engine}>
-    <BaseProvider theme={LightTheme}>
+    <BaseProvider theme={LightTheme} basename="/portfolio">
       <App />
     </BaseProvider>
   </StyletronProvider>,
