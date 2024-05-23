@@ -60,7 +60,10 @@ export default class Main extends Component {
               render={(props) => <Splash {...props} theme={this.props.theme} />}
             />
           )}
-
+          <Route
+            path="/portfolio"
+            render={(props) => <Home {...props} theme={this.props.theme} />}
+          />
           <Route
             path="/projects"
             render={(props) => <Projects {...props} theme={this.props.theme} />}
